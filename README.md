@@ -1,4 +1,4 @@
-# Clase: *Planeación de sistemas de software (Gpo 101)*
+# *Planeación de sistemas de software (Gpo 101)*
 
 # TMDV-Equipo-2
 
