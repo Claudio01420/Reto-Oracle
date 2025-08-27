@@ -10,6 +10,8 @@ Claudio Patricio Cantú Alanís - A00835868,
 Pedro Alejandro Rodriguez Gonzalez - A00837374,
 Diego Jose Roca Rodriguez - A00836390.
 
+<img width="787" height="220" alt="image" src="https://github.com/user-attachments/assets/3b46dd35-9181-4894-b1e0-05fe718fdd79" />
+
 ITC a00837418@tec.mx a00837745@tec.mx a00835868@tec.mx a00837473@tec.mx, A00836390@tec.mx.
 
 # Reto-Oracle
